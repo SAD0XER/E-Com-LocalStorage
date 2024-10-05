@@ -80,23 +80,13 @@ It is a simple **E-Commerce** website developed using `HTML`, `CSS` and `JavaScr
 
 ## Features🤩
 
-- User can **sort** and **filter**product by its categories.
+- User can **sort** and **filter** product by its categories.
 - User can **add** products in the **cart**.
 - User can see **loader** is loading on the page while **API** is fetching products.
 - If any **error** occurs while getting a response from the server then an **alert** will pop up showing the error **message**.
 - Whenever a new product is **added** or **removed** from the cart it will **update** the **UI** accordingly.
 - There will be a `Cart` button which when clicked will redirect the user to the cart page where the user can **view** all the **products** in the **cart**.
 - The cart **total amount** will be updated whenever a new item is **added** or **removed** from the cart.
-
-<details align="center">
-<summary><b>⚠️Important Note & Warning⚠️</b></summary>
-
-<i>Once you **see** and **use** this project, then please don't forget to clear your **LocalStorage** by clicking on the `button`, it is located at the end of the page **Home** page.
-
-Why it is important? [`Read more on MDN Docs`](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
-</i>
-
-</details>
 
 ## Installation🏗️
 
